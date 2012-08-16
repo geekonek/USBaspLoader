@@ -122,7 +122,7 @@ these macros are defined, the boot loader usees them.
 
 /* ------------------------------------------------------------------------- */
 
-/* Example configuration: Port D bit 3 is connected to a jumper which ties
+/* Example configuration: Port D bit 7 is connected to a jumper which ties
  * this pin to GND if the boot loader is requested. Initialization allows
  * several clock cycles for the input voltage to stabilize before
  * bootLoaderCondition() samples the value.
